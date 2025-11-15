@@ -1,3 +1,5 @@
-Student Name: Hussein Tweisat
-University: Irbid National University
-Student ID: 202310004 
+Student:Hussein Tweisat
+University:Irbid University
+Student ID:202310004
+
+
