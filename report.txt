@@ -1,0 +1,19 @@
+Report
+Student:Hussein Tweisat
+University:Irbid National University
+Data:November 2025
+
+Overiew:
+This project is a simple python cimmend-line tool that detects the hash type (MD5,SHA1,SHA256.SHA384,SHA512) and generates an MD5 hash from plaintext input.
+
+Step:
+1.The program was written and tested on kali Linux.
+2.The code uses the hashlib library to generate MD5 hashes.
+3.It identifies the hash type by checking its  length and hexadecimal format.
+4.Screenshots were taken to show each function (MD5,SHA256,Error,Exit).
+
+File:
+-hash_task.py (main Python script)
+-SUBMISSION.txt (student info)
+-LICENSE (MIT license)
+-screenshots/ (contains four images showing results)
